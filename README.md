@@ -5,7 +5,14 @@
 *Discover. Share. Savor.*
  
  </div>
- 
+
+ </div>
+
+<p align="center">
+  <img src="https://images01.nicepagecdn.com/page/81/37/web-page-design-preview-81379.jpg" 
+  alt="Delicious Recipes Design" width="700" height ="300"/>
+</p>
+
 ## 📌 Overview
 Welcome to Culinia, your go-to destination for exploring, sharing, and indulging in mouthwatering recipes from around the world. Our platform is designed to provide an intuitive and delightful experience, enabling you to browse, search, and save recipes effortlessly.
 
